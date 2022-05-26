@@ -51,5 +51,3 @@
 20. Поднятие стейта
 
 21. Подписка на контекст
-
-Ссылка на проект [ТУТ](https://juliamacfiurst.github.io/mesto-react/)
